@@ -1,0 +1,5 @@
+About, Contact, Portfolio, Memes, one solid color, css and JS files, oneclick button stuff for JS.
+
+Header: BIGHEART
+
+Footer: fake copyright information and a meme or joke.
